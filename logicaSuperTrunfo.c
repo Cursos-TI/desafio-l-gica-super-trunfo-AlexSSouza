@@ -97,6 +97,6 @@ int main() {
     }
     // Exemplo:
     // printf("A cidade vencedora é: %s\n", cidadeVencedora);
-
+    printf("Pontos totais: %d\n", pontos);
     return 0;
 }
