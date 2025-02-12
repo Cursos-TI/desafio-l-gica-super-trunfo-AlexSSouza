@@ -97,8 +97,8 @@ int main() {
     }
     // Exemplo:
     // printf("A cidade vencedora é: %s\n", cidadeVencedora);
-    printf("Pontos totais%s: - %d\n", nome1,pnt1);
-    printf("Pontos totais%s: - %d\n", nome2,pnt2);
+    printf("Pontos totais %s: - %d\n", nome1,pnt1);
+    printf("Pontos totais %s: - %d\n", nome2,pnt2);
     if (pnt1 > pnt2)
     {
         printf("A Cidade vencedora foi: %s\n", nome1);
