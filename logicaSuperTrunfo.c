@@ -97,8 +97,7 @@ int main() {
     printf("Total Pontos -%s: - %d\n", nome2,pnt2);
     if (pnt1 > pnt2) {
         printf("A Cidade vencedora foi: %s\n", nome1);
-    }else if (pnt1 == pnt2)
-    {
+    }else if (pnt1 == pnt2) {
         printf("### EMPATE ####:\n");
     }else {
         printf("A Cidade vencedora foi: %s\n", nome2);
