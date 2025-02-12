@@ -105,12 +105,10 @@ int main() {
     }else if (pnt1 == pnt2)
     {
         printf("### EMPATE ####:\n");
-    }
-    else
+    }else if (pnt1 < pnt2)
     {
         printf("A Cidade vencedora foi: %s\n", nome2);
     }
-    
-      
+          
     return 0;
 }
